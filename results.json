@@ -1,0 +1,396 @@
+{
+      "shipments": [
+            {
+                  "id": "2819479703",
+                  "service": "express",
+                  "origin": {
+                        "address": {
+                              "addressLocality": "SINGAPORE - SINGAPORE"
+                        },
+                        "servicePoint": {
+                              "url": "http://www.dhl.com.sg/en/country_profile.html",
+                              "label": "Origin Service Area"
+                        }
+                  },
+                  "destination": {
+                        "address": {
+                              "addressLocality": "SHANGHAI - CHINA, PEOPLES REPUBLIC"
+                        },
+                        "servicePoint": {
+                              "url": "http://www.cn.dhl.com/en/country_profile.html",
+                              "label": "Destination Service Area"
+                        }
+                  },
+                  "status": {
+                        "timestamp": "2023-12-29T11:05:00",
+                        "location": {
+                              "address": {
+                                    "addressLocality": "SHANGHAI - CHINA, PEOPLES REPUBLIC"
+                              }
+                        },
+                        "statusCode": "delivered",
+                        "status": "delivered",
+                        "description": "Delivered"
+                  },
+                  "details": {
+                        "product": {
+                              "productCode": "P",
+                              "productName": "EXPRESS WORLDWIDE"
+                        },
+                        "proofOfDelivery": {
+                              "documentUrl": "https://webpod.dhl.com/webPOD/DHLePODRequest?hwb=F0FB34wt6j6mn5mb6wB%2Bpw%3D%3D&pudate=KIOhKm2gKIqtfrDlj6%2FQVA%3D%3D&appuid=gZa6xVRGGHq5sS4mo%2FrbsA%3D%3D&language=en&country=",
+                              "signatureUrl": "https://webpod.dhl.com/webPOD/DHLePODRequest?hwb=F0FB34wt6j6mn5mb6wB%2Bpw%3D%3D&pudate=KIOhKm2gKIqtfrDlj6%2FQVA%3D%3D&appuid=gZa6xVRGGHq5sS4mo%2FrbsA%3D%3D&language=en&country="
+                        },
+                        "proofOfDeliverySignedAvailable": false,
+                        "totalNumberOfPieces": 1,
+                        "pieceIds": [
+                              "JD014600011301104273"
+                        ]
+                  },
+                  "events": [
+                        {
+                              "timestamp": "2023-12-29T11:05:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "SHANGHAI - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Delivered",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-29T09:59:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "SHANGHAI - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Shipment is out with courier for delivery",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-29T07:08:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "SHANGHAI - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Arrived at DHL Delivery Facility  SHANGHAI - CHINA, PEOPLES REPUBLIC",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-29T01:47:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Shipment has departed from a DHL facility EAST CHINA AREA - CHINA, PEOPLES REPUBLIC",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-28T22:48:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance processing complete at EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                        },
+                        {
+                              "timestamp": "2023-12-28T22:32:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Processed at EAST CHINA AREA - CHINA, PEOPLES REPUBLIC",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-28T16:46:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Customs clearance status updated. Note - The Customs clearance process may start while the shipment is in transit to the destination. "
+                        },
+                        {
+                              "timestamp": "2023-12-27T20:41:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   "
+                        },
+                        {
+                              "timestamp": "2023-12-26T20:42:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   "
+                        },
+                        {
+                              "timestamp": "2023-12-25T21:23:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   "
+                        },
+                        {
+                              "timestamp": "2023-12-25T15:26:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Customs clearance status updated. Note - The Customs clearance process may start while the shipment is in transit to the destination. "
+                        },
+                        {
+                              "timestamp": "2023-12-23T20:45:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   "
+                        },
+                        {
+                              "timestamp": "2023-12-22T20:39:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   "
+                        },
+                        {
+                              "timestamp": "2023-12-21T20:40:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   "
+                        },
+                        {
+                              "timestamp": "2023-12-20T20:39:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   "
+                        },
+                        {
+                              "timestamp": "2023-12-19T20:40:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   "
+                        },
+                        {
+                              "timestamp": "2023-12-19T10:56:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Customs clearance status updated. Note - The Customs clearance process may start while the shipment is in transit to the destination. "
+                        },
+                        {
+                              "timestamp": "2023-12-18T20:43:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   "
+                        },
+                        {
+                              "timestamp": "2023-12-17T19:56:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   "
+                        },
+                        {
+                              "timestamp": "2023-12-16T20:57:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   "
+                        },
+                        {
+                              "timestamp": "2023-12-15T20:44:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   "
+                        },
+                        {
+                              "timestamp": "2023-12-15T10:02:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Customs clearance status updated. Note - The Customs clearance process may start while the shipment is in transit to the destination. "
+                        },
+                        {
+                              "timestamp": "2023-12-15T07:11:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Processed for clearance at EAST CHINA AREA - CHINA, PEOPLES REPUBLIC",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-15T07:11:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Clearance Event   ",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-15T06:51:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Arrived at DHL Sort Facility  EAST CHINA AREA - CHINA, PEOPLES REPUBLIC",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-15T03:50:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "HONG KONG - HONG KONG SAR, CHINA"
+                                    }
+                              },
+                              "description": "Shipment has departed from a DHL facility HONG KONG - HONG KONG SAR, CHINA",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-15T03:43:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "HONG KONG - HONG KONG SAR, CHINA"
+                                    }
+                              },
+                              "description": "Processed at HONG KONG - HONG KONG SAR, CHINA",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-15T02:09:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "HONG KONG - HONG KONG SAR, CHINA"
+                                    }
+                              },
+                              "description": "Arrived at DHL Sort Facility  HONG KONG - HONG KONG SAR, CHINA",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-15T02:09:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "HONG KONG - HONG KONG SAR, CHINA"
+                                    }
+                              },
+                              "description": "Shipment is on hold",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-14T22:21:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "EAST CHINA AREA - CHINA, PEOPLES REPUBLIC"
+                                    }
+                              },
+                              "description": "Customs clearance status updated. Note - The Customs clearance process may start while the shipment is in transit to the destination. "
+                        },
+                        {
+                              "timestamp": "2023-12-14T21:12:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "SINGAPORE - SINGAPORE"
+                                    }
+                              },
+                              "description": "Shipment has departed from a DHL facility SINGAPORE - SINGAPORE",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-14T21:09:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "SINGAPORE - SINGAPORE"
+                                    }
+                              },
+                              "description": "Processed at SINGAPORE - SINGAPORE",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        },
+                        {
+                              "timestamp": "2023-12-14T16:42:00",
+                              "location": {
+                                    "address": {
+                                          "addressLocality": "SINGAPORE - SINGAPORE"
+                                    }
+                              },
+                              "description": "Shipment picked up",
+                              "pieceIds": [
+                                    "JD014600011301104273"
+                              ]
+                        }
+                  ]
+            }
+      ]
+}
